@@ -11,13 +11,10 @@ Painturhomes is located in Sector 21 D, Faridabad. They have a team of professio
 
 
 ## Demo
-
-Insert gif or link to demo
-
-
-![](https://github.com/shashanksingh0/painturhomes/blob/main/painturhomes.gif)
+![](https://github.com/shashanksingh0/painturhomes/blob/main/painturhomes-min.gif)
 
 http://painturhomes.com
+
 ## 🚀 About Me
 I'm a full stack developer...
 
