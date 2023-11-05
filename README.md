@@ -11,7 +11,7 @@ Painturhomes is located in Sector 21 D, Faridabad. They have a team of professio
 
 
 ## Demo
-![](http://painturhomes.com/img/painturhomes.gif)
+![](http://painturhomes.com/img/painturhomes-min.gif)
 
 http://painturhomes.com
 
